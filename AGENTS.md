@@ -144,7 +144,7 @@ This works in both Cursor and Claude Code to include file content in context.
 
 This project uses [CodeRabbit](https://coderabbit.ai) for automated code review.
 
-- The CodeRabbit **agent skill** is installed at `.agents/skills/code-review/SKILL.md` and is self-documenting
+- The CodeRabbit **agent skill** is installed at `.agents/skills/coderabbit-review/SKILL.md` and is self-documenting
 - CodeRabbit **automatically reviews PRs** on GitHub when they are opened or updated
 - For local reviews, ask your AI agent to "review my code" or use the `cr` CLI directly
 

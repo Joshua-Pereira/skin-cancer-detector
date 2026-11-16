@@ -1,6 +1,6 @@
 ---
-name: code-review
-description: "AI-powered code review using CodeRabbit. Default code-review skill. Trigger for any explicit review request AND autonomously when the agent thinks a review is needed (code/PR/quality/security)."
+name: coderabbit-review
+description: "CodeRabbit CLI review for this repo; not the built-in /code-review. Use when someone asks to run CodeRabbit (`cr` or `coderabbit`) on local changes or a branch."
 ---
 
 # CodeRabbit Code Review
